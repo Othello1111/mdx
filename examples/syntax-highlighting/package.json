@@ -9,7 +9,7 @@
   "dependencies": {
     "@mdx-js/mdx": "^1.4.0",
     "@mdx-js/react": "^1.4.0",
-    "gatsby": "^2.13.53",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-mdx": "^1.0.23",
     "prism-react-renderer": "^0.1.7",
     "react-live": "^2.1.2",
